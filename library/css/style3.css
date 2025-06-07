@@ -18,3 +18,11 @@
   margin: 1px 0;
   padding: 4px;
 }
+.menu {
+  background-repeat: epeat-x;
+  background-position: 50% top;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  padding: 2px;
+  border: 1px solid #e1e1e1;
+}
